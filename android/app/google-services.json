@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363691386147",
+    "project_id": "joursafe",
+    "storage_bucket": "joursafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363691386147:android:b5cb1005b281a756bb1896",
+        "android_client_info": {
+          "package_name": "com.example.joursafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363691386147-ssgl5utevu4u6lh8mq08rp2o6skb48dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3uaynZv_71WOmPmBgyDjG-auDWbrPBGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363691386147-ssgl5utevu4u6lh8mq08rp2o6skb48dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
